@@ -1,0 +1,6 @@
+{
+  "name": "Brain AI",
+  "description": "Offline Jarvis-like AI assistant with voice recognition, Bengali support, encrypted local storage, device controls, and custom plugins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
